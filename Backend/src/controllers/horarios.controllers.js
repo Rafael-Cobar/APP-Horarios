@@ -1,17 +1,23 @@
 const fs = require("fs");
 const { v4: uuid } = require("uuid");
+const { verificacionTraslapesDia } = require("../validators/horarios.validators");
 
 const jsonHorariosInit = fs.readFileSync("src/db/horarios.json", "utf-8");
 let horarios = JSON.parse(jsonHorariosInit);
 
 //---------------------------------------------------------------------------------------------
 const postHorario = async(req, res) => {
-    const { dia, horarioInicial, horarioFinal, tutor, carnet, curso, codigo, seccion, semestre } = req.body;
-    // validaciones
+    //   const { dia, horarioInicial, horarioFinal, nombre,codigo, seccion,  semestre, esAuxiliar,  carnet,   } = req.body;
 
-    let newHorario = { id: uuid(), dia, horarioInicial, horarioFinal, tutor, curso, seccion, codigo, semestre };
+    // let newHorario = { id: uuid(), dia, horarioInicial, horarioFinal,  nombre,  codigo, seccion, semestre,  esAuxiliar, carnet };
+    let newHorario = { id: uuid(), ...req.body };
+
+    // validaciones
+    const { error, mensaje } = verificacionTraslapesDia(newHorario, horarios);
+    if (error) return res.status(400).json(jsonResponseError(mensaje));
 
     agregarHorario(newHorario);
+    // horarios.push(newHorario);
 
     const jsonHorarios = JSON.stringify(horarios);
     fs.writeFileSync("src/db/horarios.json", jsonHorarios, "utf-8");

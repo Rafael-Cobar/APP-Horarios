@@ -1,0 +1,246 @@
+[{
+        "codigo": "795",
+        "curso": "LOGICA DE SISTEMAS",
+        "semestre": "3"
+    },
+    {
+        "codigo": "960",
+        "curso": "MATE COMPUTO 1",
+        "semestre": "3"
+    },
+    {
+        "codigo": "770",
+        "curso": "INTR. A LA PROGR. Y COMPUTACION 1",
+        "semestre": "3"
+    },
+    {
+        "codigo": "107",
+        "curso": "MATE INTERMEDIA 1",
+        "semestre": "3"
+    },
+    {
+        "codigo": "150",
+        "curso": "FISICA 1",
+        "semestre": "3"
+    },
+    {
+        "codigo": "0009",
+        "curso": "IDIOMA TECNICO 3",
+        "semestre": "3"
+    },
+    {
+        "codigo": "732",
+        "curso": "ESTADISTICA 1",
+        "semestre": "4"
+    },
+    {
+        "codigo": "796",
+        "curso": "LENGUAJES FORMALES Y DE PROG.",
+        "semestre": "4"
+    },
+    {
+        "codigo": "962",
+        "curso": "MATE COMPUTO 2",
+        "semestre": "4"
+    },
+    {
+        "codigo": "771",
+        "curso": "INTR. A LA PROGR. Y COMPUTACION 2",
+        "semestre": "4"
+    },
+    {
+        "codigo": "112",
+        "curso": "MATE INTERMEDIA 2",
+        "semestre": "4"
+    },
+    {
+        "codigo": "114",
+        "curso": "MATE INTERMEDIA 3",
+        "semestre": "4"
+    },
+    {
+        "codigo": "152",
+        "curso": "FISICA 2",
+        "semestre": "4"
+    },
+    {
+        "codigo": "0011",
+        "curso": "IDIOMA TECNICO 4",
+        "semestre": "4"
+    },
+    {
+        "codigo": "2025",
+        "curso": "PRACTICA INICIAL",
+        "semestre": "4"
+    },
+    {
+        "codigo": "736",
+        "curso": "ANALISIS PROBABILISTICO",
+        "semestre": "5"
+    },
+    {
+        "codigo": "777",
+        "curso": "ORG. LENGUAJES Y COMPILADORES 1",
+        "semestre": "5"
+    },
+    {
+        "codigo": "964",
+        "curso": "ORGANIZACIÓN COMPUTACIONAL",
+        "semestre": "5"
+    },
+    {
+        "codigo": "772",
+        "curso": "ESTRUCTURA DE DATOS",
+        "semestre": "5"
+    },
+    {
+        "codigo": "116",
+        "curso": "MATE APLICADA 3",
+        "semestre": "5"
+    },
+    {
+        "codigo": "118",
+        "curso": "MATE APLICADA 1",
+        "semestre": "5"
+    },
+    {
+        "codigo": "722",
+        "curso": "TEORIA DE SISTEMAS 1",
+        "semestre": "6"
+    },
+    {
+        "codigo": "601",
+        "curso": "INVESTIGACION DE OPERACIONES 1",
+        "semestre": "6"
+    },
+    {
+        "codigo": "014",
+        "curso": "ECONOMIA",
+        "semestre": "6"
+    },
+    {
+        "codigo": "781",
+        "curso": "ORG. LENGUAJES Y COMPILADORES 2",
+        "semestre": "6"
+    },
+    {
+        "codigo": "778",
+        "curso": "ARQ. COMPU Y ENSAMBLADORES 1",
+        "semestre": "6"
+    },
+    {
+        "codigo": "773",
+        "curso": "MANEJO E IMPLEMENCION DE ARCHIVOS",
+        "semestre": "6"
+    },
+    {
+        "codigo": "724",
+        "curso": "TEORIA DE SISTEMAS 2",
+        "semestre": "7"
+    },
+    {
+        "codigo": "603",
+        "curso": "INVESTIGACION DE OPERACIONES 2",
+        "semestre": "7"
+    },
+    {
+        "codigo": "281",
+        "curso": "SISTEMAS OPERATIVOS 1",
+        "semestre": "7"
+    },
+    {
+        "codigo": "779",
+        "curso": "ARQ. COMPU Y ENSAMBLADORES 2",
+        "semestre": "7"
+    },
+    {
+        "codigo": "970",
+        "curso": "REDES DE COMPUTADORAS 1",
+        "semestre": "7"
+    },
+    {
+        "codigo": "774",
+        "curso": "SISTEMAS DE BASES DE DATOS 1",
+        "semestre": "7"
+    },
+    {
+        "codigo": "2036",
+        "curso": "PRACTICA INTERMEDIA",
+        "semestre": "7"
+    },
+    {
+        "codigo": "285",
+        "curso": "SISTEMAS OPERATIVOS 2",
+        "semestre": "8"
+    },
+    {
+        "codigo": "975",
+        "curso": "REDES DE COMPUTADORAS 2",
+        "semestre": "8"
+    },
+    {
+        "codigo": "775",
+        "curso": "SISTEMAS DE BASES DE DATOS 2",
+        "semestre": "8"
+    },
+    {
+        "codigo": "283",
+        "curso": "ANALISIS Y DISEÑO DE SISTEMAS 1",
+        "semestre": "8"
+    },
+    {
+        "codigo": "797",
+        "curso": "SEMINARIO DE SISTEMAS 1",
+        "semestre": "8"
+    },
+    {
+        "codigo": "729",
+        "curso": "MODELACION Y SIMULACION 1",
+        "semestre": "9"
+    },
+    {
+        "codigo": "786",
+        "curso": "SISTEMAS ORGANIZACIONES Y GERENCIALES 1",
+        "semestre": "9"
+    },
+    {
+        "codigo": "972",
+        "curso": "INTELIGENCIA ARTIFICIAL 1",
+        "semestre": "9"
+    },
+    {
+        "codigo": "785",
+        "curso": "ANALISIS Y DISEÑO DE SISTEMAS 2",
+        "semestre": "9"
+    },
+    {
+        "codigo": "798",
+        "curso": "SEMINARIO DE SISTEMAS 2",
+        "semestre": "9"
+    },
+    {
+        "codigo": "2009",
+        "curso": "PRACTICA FINAL",
+        "semestre": "9"
+    },
+    {
+        "codigo": "787",
+        "curso": "SISTEMAS ORGANIZACIONES Y GERENCIALES 2",
+        "semestre": "10"
+    },
+    {
+        "codigo": "720",
+        "curso": "MODELACION Y SIMULACION 2",
+        "semestre": "10"
+    },
+    {
+        "codigo": "780",
+        "curso": "SOFTWARE AVANZADO",
+        "semestre": "10"
+    },
+    {
+        "codigo": "799",
+        "curso": "SEMINARIO DE INVESTIGACION",
+        "semestre": "10"
+    }
+]

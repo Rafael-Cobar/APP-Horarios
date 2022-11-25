@@ -17,6 +17,7 @@ app.use(cors());
 // Routes:
 app.use(require("./routes/index.js"));
 app.use("/horarios", require("./routes/horarios.routes"));
+app.use("/cursos", require("./routes/cursos.routes"));
 
 // 404 handler
 app.use((req, res, next) => {
